@@ -1,7 +1,9 @@
 {
-  "version": "2026-10-22-r2",
+  "version": "2026-10-27-client1",
   "slideCount": 20,
-  "builtAt": "2026-10-22T22:06:23+08:00",
-  "artifactSha256": "149d29e18b4c48efb188e87b7b8f21eccf175cd7b89091fe4ce5b0b9006790a0",
-  "previousCommit": "46fc2d4c6042595ac1a2c8320fcb7aabe46d977c"
+  "clientPages": 8,
+  "referencePages": 12,
+  "builtAt": "2026-10-27T14:48:18+08:00",
+  "artifactSha256": "5ed99fad2b3ebd7a93605970bce6a091aa8e80046fe724a385b21df239e7ef51",
+  "previousCommit": "09363059b656a14cf2862d298f3d5764ad15e5a4"
 }
